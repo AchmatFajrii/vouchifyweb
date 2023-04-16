@@ -231,7 +231,6 @@ svg {
           flex-direction: column;
           transition: 0.3s;
           font-size: 0.8rem;
-          overflow: hidden;
         }
         
         .troli{
